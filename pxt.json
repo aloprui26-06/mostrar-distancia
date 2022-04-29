@@ -1,5 +1,5 @@
 {
-    "name": "microbit line ",
+    "name": "mostrar distancia",
     "description": "",
     "dependencies": {
         "core": "*",
